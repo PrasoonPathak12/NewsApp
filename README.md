@@ -1,3 +1,5 @@
 Technologies:
 
-1,fbgkjbgkr
+1.ReactJs
+2.Vite
+3.TailwindCSS
